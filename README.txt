@@ -1,5 +1,5 @@
 # Tenant-as-a-Service
-Configure linux bridges and VxLAN tunnels for tenants in virtualized data centre environment to achieve tenant isolation and address reusability \n
+Configure linux bridges and VxLAN tunnels for tenants in virtualized data centre environment to achieve tenant isolation and address reusability
 ------------------------------------READ ME------------------------------------------
 ---------------------------TaaS: Tenant-as-a-Service---------------------------------
 ---------------------------------------by--------------------------------------------
