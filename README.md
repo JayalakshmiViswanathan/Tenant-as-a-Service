@@ -36,7 +36,7 @@ Topology example
 
 
 Procedure:
-This procedure has to be followed after creating a virtualized data center network
+This procedure has to be followed after creating a virtualized data center network.
 The input text file tenantinput.txt should be in the following format:
 {Leaf1-Name}, Tenant1-{H1,H2}, Tenant2-{H3,H4},
 {Leaf2-Name}, Tenant1-{H5,H6}, Tenant3-{H7,H8},
